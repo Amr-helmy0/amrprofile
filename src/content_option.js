@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
   title: "I’m Amr helmy",
   animated: {
-    first: "ICreate UI-UX Design",
+    first: "Create UI-UX Design",
     second: "Create Wireframing",
     third: "Create Prototype",
   },
